@@ -36,7 +36,9 @@ The main objective is to get you beatifull waifu on your racing car to the end o
 
 ## Students
 Víctor Falcón Zaro
+
 Laura Isidro Gomez
+
 Sofia Ginny Liles
 
 ## Github Link
